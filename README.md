@@ -1,9 +1,10 @@
 # 🎮 DSA-75: The Coding Adventure
 
 <p align="center">
-  <img src="images/dsa-75-banner.png" alt="DSA-75 Coding Adventure" width="100%">
+  <img src="images/DSA-75%20Coding%20Journey%20Infographic.png"
+       alt="DSA-75 Coding Journey"
+       width="100%">
 </p>
-
 <h3 align="center">⚔️ 75 Days • 75 Challenges • Unlimited Debugging 🐛</h3>
 
 <p align="center">
